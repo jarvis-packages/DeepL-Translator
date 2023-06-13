@@ -1,0 +1,16 @@
+list:
+- command:
+    action: ahk
+    exe_path: open/deepl_open.exe
+    exe_args:
+  voice:
+    sounds:
+    - ok1
+    - ok2
+    - ok3
+  phrases:
+  - открой дипл
+  - открой переводчик дипл
+  - открой дипэл
+  - открой переводчик дипэл
+  - открой умный переводчик
