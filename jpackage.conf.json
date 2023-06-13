@@ -6,7 +6,7 @@
     "short_description": "the deepl translator",
     "long_description": "The world's most accurate and nuanced machine translation",
     "authors": ["Jarvis_Packages", "AltDemono"],
-    "git_url": "",
+    "git_url": "github.com/jarvis-packages/DeepL-Translator",
     "modules" : {
         "command": "deepl"
     }
