@@ -1,13 +1,16 @@
 {
-    "name": "deepl_translator",
-    "display_name": "DeepL Translator",
-    "package_version": "1.0.0",
-    "identifier": "git.jarvispackages.deepl_translator",
-    "short_description": "the deepl translator",
-    "long_description": "The world's most accurate and nuanced machine translation",
-    "authors": ["Jarvis_Packages"],
-    "git_url": "github.com/jarvis-packages/DeepL-Translator",
-    "modules" : {
+    "bundle": {
+        "package_name": "deepl-translator",
+        "package_version": "0.0.1",
+        "package_identifier": "gh.jarvispackages.deepl-translator",
+        "package_authors": ["JarvisPackages"],
+        "git_url": "https://github.com/jarvis-packages/twitch-youtube",
+    },
+    "package": {
+        "display_name": "DeepL Translator",
+        "description": "The world's most accurate and nuanced machine translation."
+    },
+   "modules" : {
         "command": "deepl"
     }
 }
